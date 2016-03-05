@@ -12,12 +12,12 @@ location:
 employment:
   history:
     -
-      position: 'Head Code Ninja'
-      employer: 'One Cool Startup'
+      position: 'Senior Software Quality Assurance Engineer – Team Lead'
+      employer: Oracle
       summary: 'Development team manager for OneCoolApp and OneCoolWebsite, a free social network tiddlywink generator and lifestyle portal with over 200,000 users.'
       current: true
-      start: 2013-09
-      url: 'https://onecool.io/does-not-exist'
+      start: 2012-11
+      url: 'http://www.oracle.com'
       keywords: []
       highlights:
         - 'Managed a 5-person development team'

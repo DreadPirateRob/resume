@@ -770,14 +770,14 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Head Code Ninja, </w:t>
+        <w:t>Senior Software Quality Assurance Engineer – Team Lead, </w:t>
       </w:r>
-      <w:hlink w:dest="https://onecool.io/does-not-exist">
+      <w:hlink w:dest="http://www.oracle.com">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
           </w:rPr>
-          <w:t>One Cool Startup</w:t>
+          <w:t>Oracle</w:t>
         </w:r>
       </w:hlink>
       <w:r wsp:rsidR="00EA0B64">
@@ -787,7 +787,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>Sep 2013 — Present</w:t>
+        <w:t>Nov 2012 — Present</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">

@@ -16,7 +16,7 @@ Robert M. Morris
 
 ## EMPLOYMENT
 
-### *Head Code Ninja*, [One Cool Startup](https://onecool.io/does-not-exist) (2013-09 — Present)
+### *Senior Software Quality Assurance Engineer – Team Lead*, [Oracle](http://www.oracle.com) (2012-11 — Present)
 
 Development team manager for OneCoolApp and OneCoolWebsite, a free social network tiddlywink generator and lifestyle portal with over 200,000 users.
   - Managed a 5-person development team

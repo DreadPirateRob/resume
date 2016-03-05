@@ -23,10 +23,10 @@
   },
   "work": [
     {
-      "company": "One Cool Startup",
-      "website": "https://onecool.io/does-not-exist",
-      "position": "Head Code Ninja",
-      "startDate": "2013-09",
+      "company": "Oracle",
+      "website": "http://www.oracle.com",
+      "position": "Senior Software Quality Assurance Engineer – Team Lead",
+      "startDate": "2012-11",
       "summary": "Development team manager for OneCoolApp and OneCoolWebsite, a free social network tiddlywink generator and lifestyle portal with over 200,000 users.",
       "highlights": [
         "Managed a 5-person development team",
